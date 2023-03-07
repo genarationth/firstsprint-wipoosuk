@@ -19,3 +19,5 @@ Edit this Readme.md by attach link of your figma design.
 
 Paste you Figma designe here : 
 
+https://www.figma.com/file/UfTqVShPOLeb3FbwqV78OM/Untitled?node-id=0%3A1&t=tU0VwYZPEydoMT6k-1
+
